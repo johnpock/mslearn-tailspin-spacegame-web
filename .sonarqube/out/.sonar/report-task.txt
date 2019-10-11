@@ -1,0 +1,7 @@
+organization=johnpock
+projectKey=space-game-web-333-1
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.884
+dashboardUrl=https://sonarcloud.io/dashboard?id=space-game-web-333-1
+ceTaskId=AW2VesxhXu_0lF5flKnp
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AW2VesxhXu_0lF5flKnp
